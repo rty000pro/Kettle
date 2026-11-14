@@ -1,0 +1,6 @@
+{
+    "name": "Kettle",
+    "dependencies" : [
+        "boost-program-options"
+    ]
+}
